@@ -24,12 +24,12 @@
     <ClCompile Include="main.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="Helpers.cpp">
+    <ClCompile Include="ConsoleHelper.cpp">
       <Filter>Source Files\Helpers</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="Helpers.h">
+    <ClInclude Include="ConsoleHelper.h">
       <Filter>Header Files\Helpers</Filter>
     </ClInclude>
   </ItemGroup>
