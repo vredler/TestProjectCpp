@@ -5,6 +5,6 @@ int main()
 {
 	std::cout << "Hello World" << std::endl;
 
-	ConsoleHelper::GetKey();
+	GetKey();
 	return 0;
 }

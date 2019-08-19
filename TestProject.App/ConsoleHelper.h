@@ -1,6 +1,3 @@
 #pragma once
 
-namespace ConsoleHelper
-{
-	void GetKey();
-}
+void GetKey();
